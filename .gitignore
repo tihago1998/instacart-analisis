@@ -16,3 +16,6 @@ data/raw/*
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Tabla maestra: supera el límite de 100 MB de GitHub; se regenera con notebooks/pandas_labs.ipynb
+data/processed/instacart_maestra.parquet
